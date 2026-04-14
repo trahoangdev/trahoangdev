@@ -132,16 +132,32 @@ Full-stack fashion e-commerce built with Java Enterprise Edition and a modern Ty
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trahoangdev&theme=github_dark" width="700" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trahoangdev&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trahoangdev&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trahoangdev&theme=github_dark" width="700" />
+</picture>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trahoangdev&theme=github_dark" height="170" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trahoangdev&theme=github_dark" height="170" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trahoangdev&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trahoangdev&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trahoangdev&theme=github_dark" height="170" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trahoangdev&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trahoangdev&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trahoangdev&theme=github_dark" height="170" />
+</picture>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=trahoangdev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" width="700" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=trahoangdev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=trahoangdev&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=trahoangdev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" width="700" />
+</picture>
 
 </div>
 
