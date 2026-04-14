@@ -13,6 +13,8 @@
 
 ## `> whoami`
 
+> You can call me **Travis** — it's easier to pronounce than "Trà"
+
 ```
 🏙️  Ho Chi Minh City, Vietnam
 🎓  Senior Student — Software Engineering
