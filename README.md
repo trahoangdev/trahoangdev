@@ -132,12 +132,16 @@ Full-stack fashion e-commerce built with Java Enterprise Edition and a modern Ty
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=trahoangdev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trahoangdev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9&langs_count=8" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trahoangdev&theme=github_dark" width="700" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=trahoangdev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" width="700" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trahoangdev&theme=github_dark" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trahoangdev&theme=github_dark" height="170" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=trahoangdev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" width="700" />
 
 </div>
 
