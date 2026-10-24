@@ -9,7 +9,9 @@
 
 <img src="./assets/readme/engineering-intro.svg" alt="Learning. Building. Shipping." width="640" />
 
-[Portfolio ↗](https://trahoangdev.me) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/trahoangdev) &nbsp; / &nbsp; [Email](mailto:trahoangdev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-161616?style=for-the-badge&logo=vercel&logoColor=FF0044)](https://trahoangdev.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=FF0044)](https://linkedin.com/in/trahoangdev)
+[![Email](https://img.shields.io/badge/Email-161616?style=for-the-badge&logo=gmail&logoColor=FF0044)](mailto:trahoangdev@gmail.com)
 
 <br />
 
