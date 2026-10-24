@@ -1,215 +1,57 @@
-<div align="center">
-
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Tra%20Hoang%20Trong&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Content%20Creator&descSize=16&descAlignY=55&descColor=8b949e" width="100%" />
-
-[![Portfolio](https://img.shields.io/badge/🌐_trahoangdev.me-000000?style=for-the-badge)](https://trahoangdev.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trahoangdev)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/trahoangdev)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trahoangdev@gmail.com)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/trahoangdev)
-
-</div>
-
-## `> whoami`
-
-> You can call me **Travis** — it's easier to pronounce than "Trà"
-
-```
-🏙️  Ho Chi Minh City, Vietnam
-🎓  Senior Student — Software Engineering
-💼  Building full-stack products & AI-powered platforms
-🧠  Exploring RAG, Vector Search, and Model Context Protocol (MCP)
-✍️  Writing about Next.js, React, and Clean Code on my blog
-```
-
-<br/>
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI & Data**
-
-![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-
-</div>
-
-<br/>
-
-## 🔥 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 [Luxe Wear AI](https://github.com/trahoangdev/server-luxewear-ai)
-**Enterprise AI platform for fashion brands**
-
-Multi-tenant agent platform with RAG, vector search (Pinecone), Google Gemini AI, and Model Context Protocol (MCP) support. 41+ MCP tools, streaming responses, and smart caching.
-
-`TypeScript` `Express.js` `Supabase` `Pinecone` `Gemini AI` `MCP`
-
-[Server](https://github.com/trahoangdev/server-luxewear-ai) · [Client](https://github.com/trahoangdev/client-luxe-wear-ai) · [Live Demo](https://luxewearai.vercel.app/)
-
-</td>
-<td width="50%">
-
-### 🛒 [TAIKHOANXIN](https://github.com/trahoangdev/client-taikhoanxin)
-**Digital access marketplace**
-
-Premier e-commerce platform for digital service accounts. Automated fulfillment, responsive UI, and seamless user experience.
-
-`Next.js 14` `TypeScript` `Tailwind CSS` `Ant Design` `Redux Toolkit` `SWR`
-
-[Client](https://github.com/trahoangdev/client-taikhoanxin) · [Admin Panel](https://github.com/trahoangdev/client-admin-taikhoanxin) · [Live](https://taikhoanxin.com/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎨 [Portfolio](https://github.com/trahoangdev/portfolio-trahoangdev)
-**Personal portfolio & digital garden**
-
-Built with Next.js 16, featuring MDX blog, RSS feed, dark mode, Framer Motion animations, SEO optimization, Sentry monitoring, and Vercel Analytics.
-
-`Next.js 16` `TypeScript` `Tailwind CSS` `MDX` `Framer Motion`
-
-[Repository](https://github.com/trahoangdev/portfolio-trahoangdev) · [Live](https://trahoangdev.me)
-
-</td>
-<td width="50%">
-
-### 👗 [NovaWear](https://github.com/trahoangdev/server-j2ee-novawear)
-**J2EE e-commerce application**
-
-Full-stack fashion e-commerce built with Java Enterprise Edition and a modern TypeScript frontend.
-
-`Java` `J2EE` `TypeScript` `React`
-
-[Server](https://github.com/trahoangdev/server-j2ee-novawear) · [Client](https://github.com/trahoangdev/client-j2ee-novawear)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trahoangdev&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trahoangdev&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trahoangdev&theme=github_dark" width="700" />
+  <source media="(max-width: 600px)" srcset="./assets/readme/vvsvs-engineering-hero-mobile.png" />
+  <img src="./assets/readme/vvsvs-engineering-hero.png" alt="Hoang Trong Tra. AI Engineering. Build useful. Build with AI. Connecting LLMs, data and tools through code. An engineer works inside a monumental AI compute hall." width="100%" />
 </picture>
 
-<br/>
+# Hoang Trong Tra
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trahoangdev&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trahoangdev&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trahoangdev&theme=github_dark" height="170" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trahoangdev&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trahoangdev&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trahoangdev&theme=github_dark" height="170" />
-</picture>
+**Software Engineering · AI Engineering & Full-stack Development**
 
-<br/>
+[Portfolio ↗](https://trahoangdev.me) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/trahoangdev) &nbsp; / &nbsp; [Email](mailto:trahoangdev@gmail.com)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=trahoangdev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=trahoangdev&theme=default&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=trahoangdev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" width="700" />
-</picture>
+<br />
 
-</div>
+## Build. Learn. Repeat.
 
-<br/>
+I'm **Tra**, a software engineering student in Ho Chi Minh City, Vietnam, building toward a career in **AI Engineering**.
 
-## 🏆 GitHub Achievements
+My foundation is full-stack development. My focus is connecting language models to knowledge, tools, and usable interfaces. I build with TypeScript and Node.js, and I'm developing my Python skills for AI applications.
 
-<div align="center">
+## From models to applications.
 
-![Pull Shark x2](https://img.shields.io/badge/Pull_Shark_x2-🦈-blue?style=for-the-badge)
-![Quickdraw](https://img.shields.io/badge/Quickdraw-⚡-yellow?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO-🚀-green?style=for-the-badge)
-![Developer Program](https://img.shields.io/badge/GitHub_Developer_Program-💻-purple?style=for-the-badge)
+**Retrieval & knowledge**<br />
+Exploring embeddings, vector search, and RAG pipelines that bring relevant context into AI applications.
 
-</div>
+**Agents & tools**<br />
+Working with LLM APIs and the Model Context Protocol to connect models with backend services and useful actions.
 
-<br/>
+**Evaluation & reliability**<br />
+Learning to evaluate response quality, handle failures, and balance latency and cost.
 
-## 🐍 Contribution Graph
+**End-to-end delivery**<br />
+Bringing AI features into web products through APIs, streaming responses, and interfaces built with React and Next.js.
 
-<div align="center">
+<br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trahoangdev/trahoangdev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trahoangdev/trahoangdev/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/trahoangdev/trahoangdev/output/github-snake-dark.svg" width="100%" />
-</picture>
 
-</div>
+## The toolkit.
 
-<br/>
+| Area | Technologies & concepts |
+| :--- | :--- |
+| **AI & retrieval** | ![Gemini](https://img.shields.io/badge/Gemini-161616?style=for-the-badge&logo=googlegemini&logoColor=FF0044) ![OpenAI](https://img.shields.io/badge/OpenAI-161616?style=for-the-badge&logo=openai&logoColor=FF0044) ![Pinecone](https://img.shields.io/badge/Pinecone-161616?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-161616?style=for-the-badge) ![Vector Search](https://img.shields.io/badge/Vector_Search-161616?style=for-the-badge) ![MCP](https://img.shields.io/badge/MCP-161616?style=for-the-badge) |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-161616?style=for-the-badge&logo=typescript&logoColor=FF0044) ![Python](https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=FF0044) ![JavaScript](https://img.shields.io/badge/JavaScript-161616?style=for-the-badge&logo=javascript&logoColor=FF0044) ![Java](https://img.shields.io/badge/Java-161616?style=for-the-badge&logo=openjdk&logoColor=FF0044) |
+| **Backend & data** | ![Node.js](https://img.shields.io/badge/Node.js-161616?style=for-the-badge&logo=nodedotjs&logoColor=FF0044) ![Express](https://img.shields.io/badge/Express-161616?style=for-the-badge&logo=express&logoColor=FF0044) ![Supabase](https://img.shields.io/badge/Supabase-161616?style=for-the-badge&logo=supabase&logoColor=FF0044) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161616?style=for-the-badge&logo=postgresql&logoColor=FF0044) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-161616?style=for-the-badge&logo=react&logoColor=FF0044) ![Next.js](https://img.shields.io/badge/Next.js-161616?style=for-the-badge&logo=nextdotjs&logoColor=FF0044) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161616?style=for-the-badge&logo=tailwindcss&logoColor=FF0044) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-161616?style=for-the-badge&logo=shadcnui&logoColor=FF0044) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-161616?style=for-the-badge&logo=redux&logoColor=FF0044) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-161616?style=for-the-badge&logo=framer&logoColor=FF0044) |
+| **Delivery & quality** | ![Docker](https://img.shields.io/badge/Docker-161616?style=for-the-badge&logo=docker&logoColor=FF0044) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161616?style=for-the-badge&logo=githubactions&logoColor=FF0044) ![Vercel](https://img.shields.io/badge/Vercel-161616?style=for-the-badge&logo=vercel&logoColor=FF0044) ![Jest](https://img.shields.io/badge/Jest-161616?style=for-the-badge&logo=jest&logoColor=FF0044) ![ESLint](https://img.shields.io/badge/ESLint-161616?style=for-the-badge&logo=eslint&logoColor=FF0044) ![Sentry](https://img.shields.io/badge/Sentry-161616?style=for-the-badge&logo=sentry&logoColor=FF0044) |
 
----
+## Notes from the work.
 
-<div align="center">
+I write about **Next.js, React, and clean code** on [my website](https://trahoangdev.me).
 
-**"Code is not just logic. It's the art of translating thought into reality."**
+For project conversations and technical discussions: **[trahoangdev@gmail.com](mailto:trahoangdev@gmail.com)**.
 
-<br/>
+<br />
 
-<a href="https://github.com/trahoangdev?tab=repositories">
-<img src="https://img.shields.io/badge/61_Public_Repos-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+<a href="mailto:trahoangdev@gmail.com">
+  <img src="./assets/readme/vvsvs-contact.png" alt="Ideas into working software. Email Hoang Trong Tra at trahoangdev@gmail.com." width="100%" />
 </a>
-<a href="https://github.com/trahoangdev?tab=followers">
-<img src="https://img.shields.io/github/followers/trahoangdev?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=1f6feb" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=trahoangdev&style=for-the-badge&color=1f6feb&label=Profile+Views" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%" />
-
-</div>
