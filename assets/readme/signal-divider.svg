@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24" role="img" aria-labelledby="title">
+  <title id="title">A subtle moving pink signal divider</title>
+  <style>@media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
+  <defs>
+    <linearGradient id="signal">
+      <stop stop-color="#ff0044" stop-opacity="0"/>
+      <stop offset=".65" stop-color="#ff0044" stop-opacity=".3"/>
+      <stop offset=".92" stop-color="#ff0044"/>
+      <stop offset="1" stop-color="#ff0044" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 12H1000" stroke="#5b5b65" stroke-opacity=".35"/>
+  <path d="M0 12H40" stroke="#ff0044" stroke-width="2"/>
+  <rect class="motion" x="-240" y="11" width="240" height="2" fill="url(#signal)">
+    <animate attributeName="x" values="-240;1000" dur="9s" repeatCount="indefinite"/>
+  </rect>
+</svg>

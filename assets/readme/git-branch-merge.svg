@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="166" viewBox="0 0 640 166" role="img" aria-labelledby="title desc">
+  <title id="title">Branch. Build. Merge.</title>
+  <desc id="desc">An illustrative Git workflow: a feature branch splits from main, receives commits, and merges back. A pink signal follows the branch into the merge.</desc>
+  <style>@media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
+  <rect width="640" height="166" rx="12" fill="#0a0a0a"/>
+  <g font-family="'Segoe UI',Arial,sans-serif" font-size="19">
+    <text x="28" y="29" fill="#b4b4bc">main</text>
+    <text x="264" y="148" fill="#ff0044">feature</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-width="2">
+    <path d="M40 56H600" stroke="#494951"/>
+    <path d="M140 56C182 56 184 108 224 108H416C458 108 458 56 500 56" stroke="#753044"/>
+    <path class="motion" d="M140 56C182 56 184 108 224 108H416C458 108 458 56 500 56" stroke="#ff0044" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+      <animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;.12;.76;.94;1" dur="10s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g fill="#0a0a0a" stroke="#919199" stroke-width="2">
+    <circle cx="40" cy="56" r="6"/><circle cx="140" cy="56" r="6"/><circle cx="320" cy="56" r="6"/><circle cx="500" cy="56" r="7"/><circle cx="600" cy="56" r="6"/>
+  </g>
+  <g fill="#0a0a0a" stroke="#ff0044" stroke-width="2">
+    <circle cx="224" cy="108" r="6"/><circle cx="320" cy="108" r="6"/><circle cx="416" cy="108" r="6"/>
+  </g>
+  <circle class="motion" cx="500" cy="56" r="7" fill="none" stroke="#ff0044" stroke-width="2" opacity="0">
+    <animate attributeName="r" values="7;7;18;22;7" keyTimes="0;.7;.8;.9;1" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;.8;0;0" keyTimes="0;.7;.76;.9;1" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle class="motion" r="4" fill="#ff0044">
+    <animateMotion path="M40 56H140C182 56 184 108 224 108H416C458 108 458 56 500 56H600" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.05;.94;1" dur="10s" repeatCount="indefinite"/>
+  </circle>
+</svg>

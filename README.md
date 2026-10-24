@@ -41,6 +41,8 @@ Bringing AI features into web products through APIs, streaming responses, and in
 <br />
 
 
+<img src="./assets/readme/git-branch-merge.svg" alt="Git workflow: a feature branch splits from main, receives commits, and merges back." width="640" />
+
 ## The toolkit.
 
 | Area | Technologies & concepts |
@@ -50,6 +52,8 @@ Bringing AI features into web products through APIs, streaming responses, and in
 | **Backend & data** | ![Node.js](https://img.shields.io/badge/Node.js-161616?style=for-the-badge&logo=nodedotjs&logoColor=FF0044) ![Express](https://img.shields.io/badge/Express-161616?style=for-the-badge&logo=express&logoColor=FF0044) ![Supabase](https://img.shields.io/badge/Supabase-161616?style=for-the-badge&logo=supabase&logoColor=FF0044) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161616?style=for-the-badge&logo=postgresql&logoColor=FF0044) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-161616?style=for-the-badge&logo=react&logoColor=FF0044) ![Next.js](https://img.shields.io/badge/Next.js-161616?style=for-the-badge&logo=nextdotjs&logoColor=FF0044) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161616?style=for-the-badge&logo=tailwindcss&logoColor=FF0044) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-161616?style=for-the-badge&logo=shadcnui&logoColor=FF0044) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-161616?style=for-the-badge&logo=redux&logoColor=FF0044) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-161616?style=for-the-badge&logo=framer&logoColor=FF0044) |
 | **Delivery & quality** | ![Docker](https://img.shields.io/badge/Docker-161616?style=for-the-badge&logo=docker&logoColor=FF0044) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161616?style=for-the-badge&logo=githubactions&logoColor=FF0044) ![Vercel](https://img.shields.io/badge/Vercel-161616?style=for-the-badge&logo=vercel&logoColor=FF0044) ![Jest](https://img.shields.io/badge/Jest-161616?style=for-the-badge&logo=jest&logoColor=FF0044) ![ESLint](https://img.shields.io/badge/ESLint-161616?style=for-the-badge&logo=eslint&logoColor=FF0044) ![Sentry](https://img.shields.io/badge/Sentry-161616?style=for-the-badge&logo=sentry&logoColor=FF0044) |
+
+<img src="./assets/readme/signal-divider.svg" alt="" width="100%" />
 
 ## Notes from the work.
 
