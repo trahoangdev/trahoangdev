@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="56" viewBox="0 0 640 56" role="img" aria-labelledby="title desc">
+  <title id="title">Learning. Building. Shipping.</title>
+  <desc id="desc">A gently looping typewriter introduction.</desc>
+  <style>
+    .still{display:none}
+    @media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:inline}}
+  </style>
+  <defs>
+    <clipPath id="typing"><rect x="24" y="0" width="0" height="56">
+      <animate attributeName="width" values="0;0;14;29;43;58;72;86;101;115;130;144;158;173;187;202;216;230;245;259;274;288;302;317;331;346;360;374;389;403;403;0" keyTimes="0;.08;.1;.12;.14;.16;.18;.2;.22;.24;.26;.28;.3;.32;.34;.36;.38;.4;.42;.44;.46;.48;.5;.52;.54;.56;.58;.6;.62;.64;.94;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
+    </rect></clipPath>
+  </defs>
+  <path d="M2 23L9 29L2 35" fill="none" stroke="#ff0044" stroke-width="2.5"/>
+  <g fill="#ff0044" font-family="'Cascadia Code',Consolas,monospace" font-size="24">
+    <text class="motion" x="24" y="37" textLength="403" lengthAdjust="spacingAndGlyphs" clip-path="url(#typing)">Learning. Building. Shipping.</text>
+    <text class="still" x="24" y="37" textLength="403" lengthAdjust="spacingAndGlyphs">Learning. Building. Shipping.</text>
+  </g>
+  <rect class="motion" x="24" y="16" width="2" height="25" fill="#ff0044">
+    <animate attributeName="x" values="24;24;38;53;67;82;96;110;125;139;154;168;182;197;211;226;240;254;269;283;298;312;326;341;355;370;384;398;413;427;427;24" keyTimes="0;.08;.1;.12;.14;.16;.18;.2;.22;.24;.26;.28;.3;.32;.34;.36;.38;.4;.42;.44;.46;.48;.5;.52;.54;.56;.58;.6;.62;.64;.94;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.49;.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

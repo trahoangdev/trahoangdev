@@ -7,6 +7,8 @@
 
 **Software Engineering · AI Engineering & Full-stack Development**
 
+<img src="./assets/readme/engineering-intro.svg" alt="Learning. Building. Shipping." width="640" />
+
 [Portfolio ↗](https://trahoangdev.me) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/trahoangdev) &nbsp; / &nbsp; [Email](mailto:trahoangdev@gmail.com)
 
 <br />
@@ -18,6 +20,11 @@ I'm **Tra**, a software engineering student in Ho Chi Minh City, Vietnam, buildi
 My foundation is full-stack development. My focus is connecting language models to knowledge, tools, and usable interfaces. I build with TypeScript and Node.js, and I'm developing my Python skills for AI applications.
 
 ## From models to applications.
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/readme/engineering-flow-mobile.svg" />
+  <img src="./assets/readme/engineering-flow.svg" alt="AI workflow: context and retrieval, language models, tools and APIs, then usable software." width="100%" />
+</picture>
 
 **Retrieval & knowledge**<br />
 Exploring embeddings, vector search, and RAG pipelines that bring relevant context into AI applications.
